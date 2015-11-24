@@ -7,7 +7,7 @@ Read more: http://www.ghidinelli.com/free-spanish-conjugated-verb-database
 This database has been incorporated into a number of tools including:
 
  * Conjug - a free practice tool by @dcomtois is online - http://es.conjug.com
- * spanish-conjugator-api by @lwm - https://github.com/lwm/spanish-conjugator-api
+ * es-api - a free web API for accessing the database by @lwm - https://github.com/lwm/es-api
  * conjugarden by @hghwng - https://github.com/hghwng/conjugarden
  * grammar-cards by @twcamper - https://github.com/twcamper/grammar-cards
 
