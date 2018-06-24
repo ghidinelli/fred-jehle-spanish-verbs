@@ -558,7 +558,7 @@ morir	muriendo	dying
 mostrar	mostrando	showing
 mover	moviendo	moving
 moverse	moviéndose	moving
-mudar(se)	mudando	moving
+mudar	mudando	moving
 mudarse	mudándose	moving
 nacer	naciendo	being born
 nadar	nadando	swimming
@@ -1206,7 +1206,7 @@ morir	to die
 mostrar	to show
 mover	to move
 moverse	to move [oneself]
-mudar(se)	to change, alter; to move
+mudar	to change, alter; to move
 mudarse	to move [=change residence]
 nacer	to be born
 nadar	to swim
@@ -1867,7 +1867,7 @@ morir	muerto	died
 mostrar	mostrado	shown
 mover	movido	moved
 moverse	movido	moved
-mudar(se)	mudado	moved
+mudar	mudado	moved
 mudarse	mudado	moved
 nacer	nacido	(been) born
 nadar	nadado	swum
@@ -9793,24 +9793,24 @@ moverse	Subjuntivo	Futuro perfecto	I will have moved	me hubiere movido	te hubier
 moverse	Subjuntivo	Pluscuamperfecto	I had moved	me hubiera movido	te hubieras movido	se hubiera movido	nos hubiéramos movido	os hubierais movido	se hubieran movido
 moverse	Imperativo Afirmativo	Presente	Move! Don't move!		muévete	movíos		muévase	muévanse
 moverse	Imperativo Negativo	Presente	Move! Don't move!		no te muevas	no os mováis		no se mueva	no se muevan
-mudar(se)	Indicativo	Presente	I move, am moving	mudo	mudas	muda	mudamos	mudáis	mudan
-mudar(se)	Indicativo	Futuro	I will move	mudaré	mudarás	mudará	mudaremos	mudaréis	mudarán
-mudar(se)	Indicativo	Imperfecto	I was moving, used to move, moved	mudaba	mudabas	mudaba	mudábamos	mudabais	mudaban
-mudar(se)	Indicativo	Pretérito	I moved	mudé	mudaste	mudó	mudamos	mudasteis	mudaron
-mudar(se)	Indicativo	Condicional	I would move	mudaría	mudarías	mudaría	mudaríamos	mudaríais	mudarían
-mudar(se)	Indicativo	Presente perfecto	I have moved	he mudado	has mudado	ha mudado	hemos mudado	habéis mudado	han mudado
-mudar(se)	Indicativo	Futuro perfecto	I will have moved	habré mudado	habrás mudado	habrá mudado	habremos mudado	habréis mudado	habrán mudado
-mudar(se)	Indicativo	Pluscuamperfecto	I had moved	había mudado	habías mudado	había mudado	habíamos mudado	habíais mudado	habían mudado
-mudar(se)	Indicativo	Pretérito anterior	I had moved	hube mudado	hubiste mudado	hubo mudado	hubimos mudado	hubisteis mudado	hubieron mudado
-mudar(se)	Indicativo	Condicional perfecto	I would have moved	habría mudado	habrías mudado	habría mudado	habríamos mudado	habríais mudado	habrían mudado
-mudar(se)	Subjuntivo	Presente	I move, am moving	mude	mudes	mude	mudemos	mudéis	muden
-mudar(se)	Subjuntivo	Imperfecto	I moved, was moving	mudara	mudaras	mudara	mudáramos	mudarais	mudaran
-mudar(se)	Subjuntivo	Futuro	I will move	mudare	mudares	mudare	mudáremos	mudareis	mudaren
-mudar(se)	Subjuntivo	Presente perfecto	I have moved, moved	haya mudado	hayas mudado	haya mudado	hayamos mudado	hayáis mudado	hayan mudado
-mudar(se)	Subjuntivo	Futuro perfecto	I will have moved	hubiere mudado	hubieres mudado	hubiere mudado	hubiéremos mudado	hubiereis mudado	hubieren mudado
-mudar(se)	Subjuntivo	Pluscuamperfecto	I had moved	hubiera mudado	hubieras mudado	hubiera mudado	hubiéramos mudado	hubierais mudado	hubieran mudado
-mudar(se)	Imperativo Afirmativo	Presente	Move! Don't move!		muda	mudad		mude	muden
-mudar(se)	Imperativo Negativo	Presente	Move! Don't move!		no mudes	no mudéis		no mude	no muden
+mudar	Indicativo	Presente	I move, am moving	mudo	mudas	muda	mudamos	mudáis	mudan
+mudar	Indicativo	Futuro	I will move	mudaré	mudarás	mudará	mudaremos	mudaréis	mudarán
+mudar	Indicativo	Imperfecto	I was moving, used to move, moved	mudaba	mudabas	mudaba	mudábamos	mudabais	mudaban
+mudar	Indicativo	Pretérito	I moved	mudé	mudaste	mudó	mudamos	mudasteis	mudaron
+mudar	Indicativo	Condicional	I would move	mudaría	mudarías	mudaría	mudaríamos	mudaríais	mudarían
+mudar	Indicativo	Presente perfecto	I have moved	he mudado	has mudado	ha mudado	hemos mudado	habéis mudado	han mudado
+mudar	Indicativo	Futuro perfecto	I will have moved	habré mudado	habrás mudado	habrá mudado	habremos mudado	habréis mudado	habrán mudado
+mudar	Indicativo	Pluscuamperfecto	I had moved	había mudado	habías mudado	había mudado	habíamos mudado	habíais mudado	habían mudado
+mudar	Indicativo	Pretérito anterior	I had moved	hube mudado	hubiste mudado	hubo mudado	hubimos mudado	hubisteis mudado	hubieron mudado
+mudar	Indicativo	Condicional perfecto	I would have moved	habría mudado	habrías mudado	habría mudado	habríamos mudado	habríais mudado	habrían mudado
+mudar	Subjuntivo	Presente	I move, am moving	mude	mudes	mude	mudemos	mudéis	muden
+mudar	Subjuntivo	Imperfecto	I moved, was moving	mudara	mudaras	mudara	mudáramos	mudarais	mudaran
+mudar	Subjuntivo	Futuro	I will move	mudare	mudares	mudare	mudáremos	mudareis	mudaren
+mudar	Subjuntivo	Presente perfecto	I have moved, moved	haya mudado	hayas mudado	haya mudado	hayamos mudado	hayáis mudado	hayan mudado
+mudar	Subjuntivo	Futuro perfecto	I will have moved	hubiere mudado	hubieres mudado	hubiere mudado	hubiéremos mudado	hubiereis mudado	hubieren mudado
+mudar	Subjuntivo	Pluscuamperfecto	I had moved	hubiera mudado	hubieras mudado	hubiera mudado	hubiéramos mudado	hubierais mudado	hubieran mudado
+mudar	Imperativo Afirmativo	Presente	Move! Don't move!		muda	mudad		mude	muden
+mudar	Imperativo Negativo	Presente	Move! Don't move!		no mudes	no mudéis		no mude	no muden
 mudarse	Indicativo	Presente	I move, am moving	me mudo	te mudas	se muda	nos mudamos	os mudáis	se mudan
 mudarse	Indicativo	Futuro	I will move	me mudaré	te mudarás	se mudará	nos mudaremos	os mudaréis	se mudarán
 mudarse	Indicativo	Imperfecto	I was moving, used to move, moved	me mudaba	te mudabas	se mudaba	nos mudábamos	os mudabais	se mudaban
