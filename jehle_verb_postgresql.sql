@@ -760,7 +760,7 @@ visitar	visitando	visiting
 vivir	viviendo	living
 volar	volando	flying
 volver	volviendo	returning
-vomit	vomitando	vomiting
+vomitar	vomitando	vomiting
 votar	votando	voting
 yacer	yaciendo	lying
 zambullirse	zambulléndose	diving
@@ -2069,7 +2069,7 @@ visitar	visitado	visited
 vivir	vivido	lived
 volar	volado	flown
 volver	vuelto	returned
-vomit	vomitado	vomited
+vomitar	vomitado	vomited
 votar	votado	voted
 yacer	yacido	lain/laid
 zambullirse	zambullido	dove
@@ -13429,24 +13429,24 @@ volver	Subjuntivo	Futuro perfecto	I will have returned	hubiere vuelto	hubieres v
 volver	Subjuntivo	Pluscuamperfecto	I had returned	hubiera vuelto	hubieras vuelto	hubiera vuelto	hubiéramos vuelto	hubierais vuelto	hubieran vuelto
 volver	Imperativo Afirmativo	Presente	Return! Don't return!		vuelve	volved		vuelva	vuelvan
 volver	Imperativo Negativo	Presente	Return! Don't return!		no vuelvas	no volváis		no vuelva	no vuelvan
-vomit	Indicativo	Presente	I vomit, am vomiting	vomito	vomitas	vomita	vomitamos	vomitáis	vomitan
-vomit	Indicativo	Futuro	I will vomit	vomitaré	vomitarás	vomitará	vomitaremos	vomitaréis	vomitarán
-vomit	Indicativo	Imperfecto	I was vomiting, used to vomit, vomited	vomitaba	vomitabas	vomitaba	vomitábamos	vomitabais	vomitaban
-vomit	Indicativo	Pretérito	I vomited	vomité	vomitaste	vomitó	vomitamos	vomitasteis	vomitaron
-vomit	Indicativo	Condicional	I would vomit	vomitaría	vomitarías	vomitaría	vomitaríamos	vomitaríais	vomitarían
-vomit	Indicativo	Presente perfecto	I have vomited	he vomitado	has vomitado	ha vomitado	hemos vomitado	habéis vomitado	han vomitado
-vomit	Indicativo	Futuro perfecto	I will have vomited	habré vomitado	habrás vomitado	habrá vomitado	habremos vomitado	habréis vomitado	habrán vomitado
-vomit	Indicativo	Pluscuamperfecto	I had vomited	había vomitado	habías vomitado	había vomitado	habíamos vomitado	habíais vomitado	habían vomitado
-vomit	Indicativo	Pretérito anterior	I had vomited	hube vomitado	hubiste vomitado	hubo vomitado	hubimos vomitado	hubisteis vomitado	hubieron vomitado
-vomit	Indicativo	Condicional perfecto	I would have vomited	habría vomitado	habrías vomitado	habría vomitado	habríamos vomitado	habríais vomitado	habrían vomitado
-vomit	Subjuntivo	Presente	I vomit, am vomiting	vomite	vomites	vomite	vomitemos	vomitéis	vomiten
-vomit	Subjuntivo	Imperfecto	I vomited, was vomiting	vomitara	vomitaras	vomitara	vomitáramos	vomitarais	vomitaran
-vomit	Subjuntivo	Futuro	I will vomit	vomitare	vomitares	vomitare	vomitáremos	vomitareis	vomitaren
-vomit	Subjuntivo	Presente perfecto	I have vomited, vomited	haya vomitado	hayas vomitado	haya vomitado	hayamos vomitado	hayáis vomitado	hayan vomitado
-vomit	Subjuntivo	Futuro perfecto	I will have vomited	hubiere vomitado	hubieres vomitado	hubiere vomitado	hubiéremos vomitado	hubiereis vomitado	hubieren vomitado
-vomit	Subjuntivo	Pluscuamperfecto	I had vomited	hubiera vomitado	hubieras vomitado	hubiera vomitado	hubiéramos vomitado	hubierais vomitado	hubieran vomitado
-vomit	Imperativo Afirmativo	Presente	Vomit! Don't vomit!		vomita	vomitad		vomite	vomiten
-vomit	Imperativo Negativo	Presente	Vomit! Don't vomit!		no vomites	no vomitéis		no vomite	no vomiten
+vomitar	Indicativo	Presente	I vomit, am vomiting	vomito	vomitas	vomita	vomitamos	vomitáis	vomitan
+vomitar	Indicativo	Futuro	I will vomit	vomitaré	vomitarás	vomitará	vomitaremos	vomitaréis	vomitarán
+vomitar	Indicativo	Imperfecto	I was vomiting, used to vomit, vomited	vomitaba	vomitabas	vomitaba	vomitábamos	vomitabais	vomitaban
+vomitar	Indicativo	Pretérito	I vomited	vomité	vomitaste	vomitó	vomitamos	vomitasteis	vomitaron
+vomitar	Indicativo	Condicional	I would vomit	vomitaría	vomitarías	vomitaría	vomitaríamos	vomitaríais	vomitarían
+vomitar	Indicativo	Presente perfecto	I have vomited	he vomitado	has vomitado	ha vomitado	hemos vomitado	habéis vomitado	han vomitado
+vomitar	Indicativo	Futuro perfecto	I will have vomited	habré vomitado	habrás vomitado	habrá vomitado	habremos vomitado	habréis vomitado	habrán vomitado
+vomitar	Indicativo	Pluscuamperfecto	I had vomited	había vomitado	habías vomitado	había vomitado	habíamos vomitado	habíais vomitado	habían vomitado
+vomitar	Indicativo	Pretérito anterior	I had vomited	hube vomitado	hubiste vomitado	hubo vomitado	hubimos vomitado	hubisteis vomitado	hubieron vomitado
+vomitar	Indicativo	Condicional perfecto	I would have vomited	habría vomitado	habrías vomitado	habría vomitado	habríamos vomitado	habríais vomitado	habrían vomitado
+vomitar	Subjuntivo	Presente	I vomit, am vomiting	vomite	vomites	vomite	vomitemos	vomitéis	vomiten
+vomitar	Subjuntivo	Imperfecto	I vomited, was vomiting	vomitara	vomitaras	vomitara	vomitáramos	vomitarais	vomitaran
+vomitar	Subjuntivo	Futuro	I will vomit	vomitare	vomitares	vomitare	vomitáremos	vomitareis	vomitaren
+vomitar	Subjuntivo	Presente perfecto	I have vomited, vomited	haya vomitado	hayas vomitado	haya vomitado	hayamos vomitado	hayáis vomitado	hayan vomitado
+vomitar	Subjuntivo	Futuro perfecto	I will have vomited	hubiere vomitado	hubieres vomitado	hubiere vomitado	hubiéremos vomitado	hubiereis vomitado	hubieren vomitado
+vomitar	Subjuntivo	Pluscuamperfecto	I had vomited	hubiera vomitado	hubieras vomitado	hubiera vomitado	hubiéramos vomitado	hubierais vomitado	hubieran vomitado
+vomitar	Imperativo Afirmativo	Presente	Vomit! Don't vomit!		vomita	vomitad		vomite	vomiten
+vomitar	Imperativo Negativo	Presente	Vomit! Don't vomit!		no vomites	no vomitéis		no vomite	no vomiten
 votar	Indicativo	Presente	I vote, am voting	voto	votas	vota	votamos	votáis	votan
 votar	Indicativo	Futuro	I will vote	votaré	votarás	votará	votaremos	votaréis	votarán
 votar	Indicativo	Imperfecto	I was voting, used to vote, voted	votaba	votabas	votaba	votábamos	votabais	votaban
