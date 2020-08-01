@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"fred-jehle.conjugaciones"}],"uuid":"34cd3da0bd2246dd99bfdadf6f03473f"}
