@@ -21,7 +21,7 @@ SET escape_string_warning = off;
 CREATE DATABASE verbos WITH TEMPLATE = template0 ENCODING = 'UTF8' LC_COLLATE = 'English_United States.1252' LC_CTYPE = 'English_United States.1252';
 
 
-\connect verbos
+CONNECT verbos
 
 SET statement_timeout = 0;
 SET client_encoding = 'UTF8';
@@ -1412,10 +1412,10 @@ vomit	to vomit, throw up, bring up
 votar	to vote
 yacer	to lie
 zambullirse	to dive, plunge
-besar	k i s s
-bailar	d a n c e
-presentar	t o   i n t r o d u c e
-esperar	t o   h o p e
+besar	kiss
+bailar	dance
+presentar	to introduce
+esperar	to hope
 \.
 
 
