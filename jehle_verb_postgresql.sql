@@ -558,7 +558,7 @@ morir	muriendo	dying
 mostrar	mostrando	showing
 mover	moviendo	moving
 moverse	moviéndose	moving
-mudar(se)	mudando	moving
+mudar	mudando	moving
 mudarse	mudándose	moving
 nacer	naciendo	being born
 nadar	nadando	swimming
@@ -760,7 +760,7 @@ visitar	visitando	visiting
 vivir	viviendo	living
 volar	volando	flying
 volver	volviendo	returning
-vomit	vomitando	vomiting
+vomitar	vomitando	vomiting
 votar	votando	voting
 yacer	yaciendo	lying
 zambullirse	zambulléndose	diving
@@ -1206,7 +1206,7 @@ morir	to die
 mostrar	to show
 mover	to move
 moverse	to move [oneself]
-mudar(se)	to change, alter; to move
+mudar	to change, alter; to move
 mudarse	to move [=change residence]
 nacer	to be born
 nadar	to swim
@@ -1867,7 +1867,7 @@ morir	muerto	died
 mostrar	mostrado	shown
 mover	movido	moved
 moverse	movido	moved
-mudar(se)	mudado	moved
+mudar	mudado	moved
 mudarse	mudado	moved
 nacer	nacido	(been) born
 nadar	nadado	swum
@@ -2069,7 +2069,7 @@ visitar	visitado	visited
 vivir	vivido	lived
 volar	volado	flown
 volver	vuelto	returned
-vomit	vomitado	vomited
+vomitar	vomitado	vomited
 votar	votado	voted
 yacer	yacido	lain/laid
 zambullirse	zambullido	dove
@@ -9793,24 +9793,24 @@ moverse	Subjuntivo	Futuro perfecto	I will have moved	me hubiere movido	te hubier
 moverse	Subjuntivo	Pluscuamperfecto	I had moved	me hubiera movido	te hubieras movido	se hubiera movido	nos hubiéramos movido	os hubierais movido	se hubieran movido
 moverse	Imperativo Afirmativo	Presente	Move! Don't move!		muévete	movíos		muévase	muévanse
 moverse	Imperativo Negativo	Presente	Move! Don't move!		no te muevas	no os mováis		no se mueva	no se muevan
-mudar(se)	Indicativo	Presente	I move, am moving	mudo	mudas	muda	mudamos	mudáis	mudan
-mudar(se)	Indicativo	Futuro	I will move	mudaré	mudarás	mudará	mudaremos	mudaréis	mudarán
-mudar(se)	Indicativo	Imperfecto	I was moving, used to move, moved	mudaba	mudabas	mudaba	mudábamos	mudabais	mudaban
-mudar(se)	Indicativo	Pretérito	I moved	mudé	mudaste	mudó	mudamos	mudasteis	mudaron
-mudar(se)	Indicativo	Condicional	I would move	mudaría	mudarías	mudaría	mudaríamos	mudaríais	mudarían
-mudar(se)	Indicativo	Presente perfecto	I have moved	he mudado	has mudado	ha mudado	hemos mudado	habéis mudado	han mudado
-mudar(se)	Indicativo	Futuro perfecto	I will have moved	habré mudado	habrás mudado	habrá mudado	habremos mudado	habréis mudado	habrán mudado
-mudar(se)	Indicativo	Pluscuamperfecto	I had moved	había mudado	habías mudado	había mudado	habíamos mudado	habíais mudado	habían mudado
-mudar(se)	Indicativo	Pretérito anterior	I had moved	hube mudado	hubiste mudado	hubo mudado	hubimos mudado	hubisteis mudado	hubieron mudado
-mudar(se)	Indicativo	Condicional perfecto	I would have moved	habría mudado	habrías mudado	habría mudado	habríamos mudado	habríais mudado	habrían mudado
-mudar(se)	Subjuntivo	Presente	I move, am moving	mude	mudes	mude	mudemos	mudéis	muden
-mudar(se)	Subjuntivo	Imperfecto	I moved, was moving	mudara	mudaras	mudara	mudáramos	mudarais	mudaran
-mudar(se)	Subjuntivo	Futuro	I will move	mudare	mudares	mudare	mudáremos	mudareis	mudaren
-mudar(se)	Subjuntivo	Presente perfecto	I have moved, moved	haya mudado	hayas mudado	haya mudado	hayamos mudado	hayáis mudado	hayan mudado
-mudar(se)	Subjuntivo	Futuro perfecto	I will have moved	hubiere mudado	hubieres mudado	hubiere mudado	hubiéremos mudado	hubiereis mudado	hubieren mudado
-mudar(se)	Subjuntivo	Pluscuamperfecto	I had moved	hubiera mudado	hubieras mudado	hubiera mudado	hubiéramos mudado	hubierais mudado	hubieran mudado
-mudar(se)	Imperativo Afirmativo	Presente	Move! Don't move!		muda	mudad		mude	muden
-mudar(se)	Imperativo Negativo	Presente	Move! Don't move!		no mudes	no mudéis		no mude	no muden
+mudar	Indicativo	Presente	I move, am moving	mudo	mudas	muda	mudamos	mudáis	mudan
+mudar	Indicativo	Futuro	I will move	mudaré	mudarás	mudará	mudaremos	mudaréis	mudarán
+mudar	Indicativo	Imperfecto	I was moving, used to move, moved	mudaba	mudabas	mudaba	mudábamos	mudabais	mudaban
+mudar	Indicativo	Pretérito	I moved	mudé	mudaste	mudó	mudamos	mudasteis	mudaron
+mudar	Indicativo	Condicional	I would move	mudaría	mudarías	mudaría	mudaríamos	mudaríais	mudarían
+mudar	Indicativo	Presente perfecto	I have moved	he mudado	has mudado	ha mudado	hemos mudado	habéis mudado	han mudado
+mudar	Indicativo	Futuro perfecto	I will have moved	habré mudado	habrás mudado	habrá mudado	habremos mudado	habréis mudado	habrán mudado
+mudar	Indicativo	Pluscuamperfecto	I had moved	había mudado	habías mudado	había mudado	habíamos mudado	habíais mudado	habían mudado
+mudar	Indicativo	Pretérito anterior	I had moved	hube mudado	hubiste mudado	hubo mudado	hubimos mudado	hubisteis mudado	hubieron mudado
+mudar	Indicativo	Condicional perfecto	I would have moved	habría mudado	habrías mudado	habría mudado	habríamos mudado	habríais mudado	habrían mudado
+mudar	Subjuntivo	Presente	I move, am moving	mude	mudes	mude	mudemos	mudéis	muden
+mudar	Subjuntivo	Imperfecto	I moved, was moving	mudara	mudaras	mudara	mudáramos	mudarais	mudaran
+mudar	Subjuntivo	Futuro	I will move	mudare	mudares	mudare	mudáremos	mudareis	mudaren
+mudar	Subjuntivo	Presente perfecto	I have moved, moved	haya mudado	hayas mudado	haya mudado	hayamos mudado	hayáis mudado	hayan mudado
+mudar	Subjuntivo	Futuro perfecto	I will have moved	hubiere mudado	hubieres mudado	hubiere mudado	hubiéremos mudado	hubiereis mudado	hubieren mudado
+mudar	Subjuntivo	Pluscuamperfecto	I had moved	hubiera mudado	hubieras mudado	hubiera mudado	hubiéramos mudado	hubierais mudado	hubieran mudado
+mudar	Imperativo Afirmativo	Presente	Move! Don't move!		muda	mudad		mude	muden
+mudar	Imperativo Negativo	Presente	Move! Don't move!		no mudes	no mudéis		no mude	no muden
 mudarse	Indicativo	Presente	I move, am moving	me mudo	te mudas	se muda	nos mudamos	os mudáis	se mudan
 mudarse	Indicativo	Futuro	I will move	me mudaré	te mudarás	se mudará	nos mudaremos	os mudaréis	se mudarán
 mudarse	Indicativo	Imperfecto	I was moving, used to move, moved	me mudaba	te mudabas	se mudaba	nos mudábamos	os mudabais	se mudaban
@@ -13429,24 +13429,24 @@ volver	Subjuntivo	Futuro perfecto	I will have returned	hubiere vuelto	hubieres v
 volver	Subjuntivo	Pluscuamperfecto	I had returned	hubiera vuelto	hubieras vuelto	hubiera vuelto	hubiéramos vuelto	hubierais vuelto	hubieran vuelto
 volver	Imperativo Afirmativo	Presente	Return! Don't return!		vuelve	volved		vuelva	vuelvan
 volver	Imperativo Negativo	Presente	Return! Don't return!		no vuelvas	no volváis		no vuelva	no vuelvan
-vomit	Indicativo	Presente	I vomit, am vomiting	vomito	vomitas	vomita	vomitamos	vomitáis	vomitan
-vomit	Indicativo	Futuro	I will vomit	vomitaré	vomitarás	vomitará	vomitaremos	vomitaréis	vomitarán
-vomit	Indicativo	Imperfecto	I was vomiting, used to vomit, vomited	vomitaba	vomitabas	vomitaba	vomitábamos	vomitabais	vomitaban
-vomit	Indicativo	Pretérito	I vomited	vomité	vomitaste	vomitó	vomitamos	vomitasteis	vomitaron
-vomit	Indicativo	Condicional	I would vomit	vomitaría	vomitarías	vomitaría	vomitaríamos	vomitaríais	vomitarían
-vomit	Indicativo	Presente perfecto	I have vomited	he vomitado	has vomitado	ha vomitado	hemos vomitado	habéis vomitado	han vomitado
-vomit	Indicativo	Futuro perfecto	I will have vomited	habré vomitado	habrás vomitado	habrá vomitado	habremos vomitado	habréis vomitado	habrán vomitado
-vomit	Indicativo	Pluscuamperfecto	I had vomited	había vomitado	habías vomitado	había vomitado	habíamos vomitado	habíais vomitado	habían vomitado
-vomit	Indicativo	Pretérito anterior	I had vomited	hube vomitado	hubiste vomitado	hubo vomitado	hubimos vomitado	hubisteis vomitado	hubieron vomitado
-vomit	Indicativo	Condicional perfecto	I would have vomited	habría vomitado	habrías vomitado	habría vomitado	habríamos vomitado	habríais vomitado	habrían vomitado
-vomit	Subjuntivo	Presente	I vomit, am vomiting	vomite	vomites	vomite	vomitemos	vomitéis	vomiten
-vomit	Subjuntivo	Imperfecto	I vomited, was vomiting	vomitara	vomitaras	vomitara	vomitáramos	vomitarais	vomitaran
-vomit	Subjuntivo	Futuro	I will vomit	vomitare	vomitares	vomitare	vomitáremos	vomitareis	vomitaren
-vomit	Subjuntivo	Presente perfecto	I have vomited, vomited	haya vomitado	hayas vomitado	haya vomitado	hayamos vomitado	hayáis vomitado	hayan vomitado
-vomit	Subjuntivo	Futuro perfecto	I will have vomited	hubiere vomitado	hubieres vomitado	hubiere vomitado	hubiéremos vomitado	hubiereis vomitado	hubieren vomitado
-vomit	Subjuntivo	Pluscuamperfecto	I had vomited	hubiera vomitado	hubieras vomitado	hubiera vomitado	hubiéramos vomitado	hubierais vomitado	hubieran vomitado
-vomit	Imperativo Afirmativo	Presente	Vomit! Don't vomit!		vomita	vomitad		vomite	vomiten
-vomit	Imperativo Negativo	Presente	Vomit! Don't vomit!		no vomites	no vomitéis		no vomite	no vomiten
+vomitar	Indicativo	Presente	I vomit, am vomiting	vomito	vomitas	vomita	vomitamos	vomitáis	vomitan
+vomitar	Indicativo	Futuro	I will vomit	vomitaré	vomitarás	vomitará	vomitaremos	vomitaréis	vomitarán
+vomitar	Indicativo	Imperfecto	I was vomiting, used to vomit, vomited	vomitaba	vomitabas	vomitaba	vomitábamos	vomitabais	vomitaban
+vomitar	Indicativo	Pretérito	I vomited	vomité	vomitaste	vomitó	vomitamos	vomitasteis	vomitaron
+vomitar	Indicativo	Condicional	I would vomit	vomitaría	vomitarías	vomitaría	vomitaríamos	vomitaríais	vomitarían
+vomitar	Indicativo	Presente perfecto	I have vomited	he vomitado	has vomitado	ha vomitado	hemos vomitado	habéis vomitado	han vomitado
+vomitar	Indicativo	Futuro perfecto	I will have vomited	habré vomitado	habrás vomitado	habrá vomitado	habremos vomitado	habréis vomitado	habrán vomitado
+vomitar	Indicativo	Pluscuamperfecto	I had vomited	había vomitado	habías vomitado	había vomitado	habíamos vomitado	habíais vomitado	habían vomitado
+vomitar	Indicativo	Pretérito anterior	I had vomited	hube vomitado	hubiste vomitado	hubo vomitado	hubimos vomitado	hubisteis vomitado	hubieron vomitado
+vomitar	Indicativo	Condicional perfecto	I would have vomited	habría vomitado	habrías vomitado	habría vomitado	habríamos vomitado	habríais vomitado	habrían vomitado
+vomitar	Subjuntivo	Presente	I vomit, am vomiting	vomite	vomites	vomite	vomitemos	vomitéis	vomiten
+vomitar	Subjuntivo	Imperfecto	I vomited, was vomiting	vomitara	vomitaras	vomitara	vomitáramos	vomitarais	vomitaran
+vomitar	Subjuntivo	Futuro	I will vomit	vomitare	vomitares	vomitare	vomitáremos	vomitareis	vomitaren
+vomitar	Subjuntivo	Presente perfecto	I have vomited, vomited	haya vomitado	hayas vomitado	haya vomitado	hayamos vomitado	hayáis vomitado	hayan vomitado
+vomitar	Subjuntivo	Futuro perfecto	I will have vomited	hubiere vomitado	hubieres vomitado	hubiere vomitado	hubiéremos vomitado	hubiereis vomitado	hubieren vomitado
+vomitar	Subjuntivo	Pluscuamperfecto	I had vomited	hubiera vomitado	hubieras vomitado	hubiera vomitado	hubiéramos vomitado	hubierais vomitado	hubieran vomitado
+vomitar	Imperativo Afirmativo	Presente	Vomit! Don't vomit!		vomita	vomitad		vomite	vomiten
+vomitar	Imperativo Negativo	Presente	Vomit! Don't vomit!		no vomites	no vomitéis		no vomite	no vomiten
 votar	Indicativo	Presente	I vote, am voting	voto	votas	vota	votamos	votáis	votan
 votar	Indicativo	Futuro	I will vote	votaré	votarás	votará	votaremos	votaréis	votarán
 votar	Indicativo	Imperfecto	I was voting, used to vote, voted	votaba	votabas	votaba	votábamos	votabais	votaban
